@@ -21,3 +21,25 @@ def menu
 end
 
 menu
+
+# new repo
+# git init
+# git add .
+# git commit -m 'message'
+# git remote add origin *paste ssh url here
+# git push origin master
+
+# already have a repo but need to update
+
+# *test the code
+# *save all the files
+# git add .
+# git commit -m 'what you did'
+# git push origin master
+
+# Misc.
+
+# git status *checks the progress of the git flow
+# git remote -v *This shows any remotes connected to the repo
+# git log *shows commit history
+# vim esc, :wq, I
